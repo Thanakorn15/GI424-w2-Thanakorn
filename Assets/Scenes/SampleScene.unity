@@ -225,7 +225,7 @@ GameObject:
   - component: {fileID: 690954955}
   - component: {fileID: 690954954}
   m_Layer: 0
-  m_Name: SS
+  m_Name: anime
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
